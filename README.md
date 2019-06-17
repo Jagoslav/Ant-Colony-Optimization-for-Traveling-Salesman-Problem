@@ -2,7 +2,7 @@
 > Basic implementation of the ant colony optimisation algorithm for the traveling salesman problem
 
 ## Screenshots
-![Example screenshot](./screenshot.png)
+![Example screenshot](screenshot.png)
 
 ## TODO
 * Ant parallelization
